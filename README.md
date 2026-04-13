@@ -26,3 +26,4 @@ Here I've used very few data and their responses for creating a chatbot. You can
 
 Output:
 
+<img width="1919" height="1076" alt="Image" src="https://github.com/user-attachments/assets/5afa952a-ba64-4d92-ad3b-535b3f3965f5" />
